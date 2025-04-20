@@ -28,7 +28,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd zomato
+  cd zomato_assignment_final
 ```
 
 Install dependencies
