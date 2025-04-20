@@ -1,0 +1,1146 @@
+[
+    {
+      "name": "Bresca",
+      "url": "https://www.brescadc.com/menus/",
+      "title": "Menus | Bresca in Washington, DC",
+      "menu_items": [
+        {
+          "item": "Kaluga Caviar",
+          "price": "$68",
+          "description": "Potato hash brown, french onion dip",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Burrata",
+          "price": "$22",
+          "description": "Hot honey, kalette, sourdough",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Salmon Crudo",
+          "price": "$24",
+          "description": "Apple, cucumber, chili oil",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": true
+        },
+        {
+          "item": "Octopus Ragu",
+          "price": "$28",
+          "description": "Fennel, white wine, breadcrumb",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Cacio e Pepe",
+          "price": "$34",
+          "description": "Taleggio, pecorino, szechuan",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Foie Gras Terrine",
+          "price": "$36",
+          "description": "Black truffle jam, fermented banana, truffled brioche",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Black Cod",
+          "price": "$46",
+          "description": "Gigante bean, bok choy, scallop, hollandaise",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Amish Chicken",
+          "price": "$44",
+          "description": "Arrowhead cabbage, chestnut, jus gras",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Margaret River Wagyu Ribeye",
+          "price": "$75",
+          "description": "Maitake, black truffle, beef jus",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Squash Ravioli",
+          "price": "$34",
+          "description": "Honeycrisp apple, baby fennel, dry sherry & sage",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Roasted Beet Salad",
+          "price": "$26",
+          "description": "Pistachio, burrata, brown butter & pumpkin seed",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Prawn Cocktail",
+          "price": "$26",
+          "description": "Tomato, horseradish, lemon",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Macaron",
+          "price": "$19",
+          "description": "Lemon basil, yogurt, yuzu",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Chocolate Tart",
+          "price": "$21",
+          "description": "Chicory, rum, smoked salt",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "1906 14th St NW, Washington, DC 20009",
+        "phone": "(202) 518-7926",
+        "email": "info@brescadc.com",
+        "hours": "Tue-Sun 5pm-10pm"
+      },
+      "dietary_options": {
+        "vegetarian_count": 5,
+        "vegan_count": 0,
+        "gluten_free_count": 5,
+        "spicy_count": 2
+      },
+      "item_count": 14,
+      "price_range": {
+        "min": 19.0,
+        "max": 75.0
+      }
+    },
+    {
+      "name": "Quay",
+      "url": "https://www.quay.com.au/menu/",
+      "title": "View The Quay Menu - Inspired By Peter Gilmore | Quay Restaurant Sydney",
+      "menu_items": [
+        {
+          "item": "The Quay Experience Chef's Tasting Menu",
+          "price": "$365",
+          "description": "Multi-course tasting menu by Chef Peter Gilmore",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Raw Smoked Wagyu",
+          "price": "$42",
+          "description": "Raw wagyu, smoked, with native condiments",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Mud Crab Congee",
+          "price": "$38",
+          "description": "Silky rice congee, mud crab, ginger",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Hand-dived Sea Scallops",
+          "price": "$44",
+          "description": "Fresh scallops, seaweed butter",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Roasted Duck Breast",
+          "price": "$49",
+          "description": "Duck breast, black garlic, malted grains",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Miso-glazed Eggplant",
+          "price": "$32",
+          "description": "Eggplant, miso glaze, puffed rice",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Salted Caramel & Chocolate",
+          "price": "$18",
+          "description": "Salted caramel mousse, chocolate soil",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Snow Egg",
+          "price": "$20",
+          "description": "Signature dessert, meringue, fruit ice cream",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "King George Whiting",
+          "price": "$46",
+          "description": "Whiting fillet, sea greens, lemon butter",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Sourdough Bread & Butter",
+          "price": "$12",
+          "description": "Freshly baked sourdough, cultured butter",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Vegetarian Tasting Menu",
+          "price": "$345",
+          "description": "Multi-course vegetarian tasting menu",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "Overseas Passenger Terminal, The Rocks, Sydney NSW 2000",
+        "phone": "02 9251 5600",
+        "email": "info@quay.com.au",
+        "hours": "Lunch: Fri-Sun 12pm-2pm, Dinner: Wed-Sun 6pm-10pm"
+      },
+      "dietary_options": {
+        "vegetarian_count": 4,
+        "vegan_count": 1,
+        "gluten_free_count": 5,
+        "spicy_count": 0
+      },
+      "item_count": 11,
+      "price_range": {
+        "min": 12.0,
+        "max": 365.0
+      }
+    },
+    {
+      "name": "The Greenhouse",
+      "url": "https://thegreenhousenorfolk.com/menus/",
+      "title": "The Greenhouse - Farm-to-Table Dining",
+      "menu_items": [
+        {
+          "item": "Heirloom Tomato Salad",
+          "price": "$18",
+          "description": "Heirloom tomatoes, basil, burrata, olive oil",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Charred Cauliflower Steak",
+          "price": "$24",
+          "description": "Grilled cauliflower, chimichurri, toasted almonds",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Roasted Beetroot Soup",
+          "price": "$12",
+          "description": "Beetroot, coconut cream, toasted seeds",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Pan-seared Salmon",
+          "price": "$28",
+          "description": "Salmon fillet, dill, lemon, seasonal vegetables",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Wild Mushroom Risotto",
+          "price": "$22",
+          "description": "Arborio rice, wild mushrooms, truffle oil",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Grilled Chicken Supreme",
+          "price": "$26",
+          "description": "Herb-marinated chicken, root vegetables",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Vegan Lentil Shepherd's Pie",
+          "price": "$20",
+          "description": "Lentil base, root vegetables, mashed potato top",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Classic Sunday Roast",
+          "price": "$29",
+          "description": "Choice of three meats, roast potatoes, Yorkshire pudding",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Homemade Sausage Rolls",
+          "price": "$9",
+          "description": "Puff pastry, seasoned sausage meat",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Afternoon Tea Scones",
+          "price": "$8",
+          "description": "Freshly baked scones, jam, clotted cream",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Decorative Cakes",
+          "price": "$7",
+          "description": "Selection of homemade cakes",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "123 Farm Lane, Cityville",
+        "phone": "555-123-4567",
+        "email": "info@greenhouse.com",
+        "hours": "Mon-Sun 11am-10pm"
+      },
+      "dietary_options": {
+        "vegetarian_count": 7,
+        "vegan_count": 3,
+        "gluten_free_count": 7,
+        "spicy_count": 0
+      },
+      "item_count": 11,
+      "price_range": {
+        "min": 7.0,
+        "max": 29.0
+      }
+    },
+    {
+      "name": "Spice Route",
+      "url": "https://theimperialindia.com/restaurant-bars/spice-route/",
+      "title": "The Spice Route - Ethnic Asian Restaurant in New Delhi",
+      "menu_items": [
+        {
+          "item": "Thai Green Curry",
+          "price": "$18",
+          "description": "Green curry, coconut milk, vegetables, jasmine rice",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": true
+        },
+        {
+          "item": "Malaysian Laksa",
+          "price": "$20",
+          "description": "Spicy noodle soup, shrimp, tofu, bean sprouts",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": true
+        },
+        {
+          "item": "Indonesian Satay",
+          "price": "$16",
+          "description": "Grilled chicken skewers, peanut sauce",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Kerala Fish Curry",
+          "price": "$22",
+          "description": "Fish, coconut, curry leaves, steamed rice",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": true
+        },
+        {
+          "item": "Pad Thai",
+          "price": "$17",
+          "description": "Rice noodles, tofu, peanuts, tamarind sauce",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Vietnamese Spring Rolls",
+          "price": "$14",
+          "description": "Rice paper rolls, vegetables, dipping sauce",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Sichuan Mapo Tofu",
+          "price": "$15",
+          "description": "Tofu, minced pork, spicy bean sauce",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": true
+        },
+        {
+          "item": "Javanese Fried Rice",
+          "price": "$16",
+          "description": "Fried rice, chicken, shrimp, vegetables",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Singaporean Chili Crab",
+          "price": "$26",
+          "description": "Crab, spicy chili sauce, steamed buns",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": true
+        },
+        {
+          "item": "Burmese Khow Suey",
+          "price": "$19",
+          "description": "Coconut curry noodles, assorted toppings",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Japanese Miso Soup",
+          "price": "$8",
+          "description": "Miso broth, tofu, seaweed, scallion",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "The Imperial, Janpath, New Delhi, India",
+        "phone": "011-41116605",
+        "email": "spiceroute@theimperialindia.com",
+        "hours": "12:30PM – 3:30PM, 7PM – 11:45PM"
+      },
+      "dietary_options": {
+        "vegetarian_count": 6,
+        "vegan_count": 5,
+        "gluten_free_count": 7,
+        "spicy_count": 5
+      },
+      "item_count": 11,
+      "price_range": {
+        "min": 8.0,
+        "max": 26.0
+      }
+    },
+    {
+      "name": "Urban Vegan",
+      "url": "https://www.urbanveganroots.com/menu",
+      "title": "Urban Vegan Roots",
+      "menu_items": [
+        {
+          "item": "Chef's V Shroom Steak",
+          "price": "$19",
+          "description": "Grilled mushroom steak, vegan demi-glace, mashed potatoes",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Illmatic Mac n' Cheese",
+          "price": "$17",
+          "description": "Elbow pasta, cashew cheese sauce, bread crumbs, scallions",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "I'm Still #1 Korean BBQ Wings",
+          "price": "$17",
+          "description": "Gochujang BBQ seitan, gochugaru ranch, sesame seeds",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": true
+        },
+        {
+          "item": "Buffalo Cauliflower Bites",
+          "price": "$13",
+          "description": "Buffalo breaded cauliflower, scallions, ranch dressing",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": true
+        },
+        {
+          "item": "Wavy Gravy Chunk Steak Frites",
+          "price": "$23",
+          "description": "Seitan steak, fries, vegan gravy",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "The Lox and Loaded Bagel",
+          "price": "$15",
+          "description": "Carrot lox, vegan cream cheese, capers, red onion, bagel",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Muscles from Brussels Sprouts",
+          "price": "$14",
+          "description": "Brussels sprouts, herb oil, vegan parm",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Soup du Jour",
+          "price": "$12",
+          "description": "Ask your server for today's vegan soup special",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Mushroom Empanadas",
+          "price": "$17",
+          "description": "Roasted shiitake and cremini mushrooms, vegan mozzarella, avocado salsa verde",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "UVK Burger",
+          "price": "$18",
+          "description": "Mushroom barley patty, tomato, pickles, red onions, romaine, zesty aioli, potato bun",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Bangin’ BLT",
+          "price": "$16",
+          "description": "Tempeh bacon, tomato, lettuce, zesty aioli, housemade bread",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "789 Plant St, Veg City",
+        "phone": "555-345-6789",
+        "email": "hello@urbanvegan.com",
+        "hours": "Tue-Sun 12pm-9pm"
+      },
+      "dietary_options": {
+        "vegetarian_count": 11,
+        "vegan_count": 11,
+        "gluten_free_count": 4,
+        "spicy_count": 2
+      },
+      "item_count": 11,
+      "price_range": {
+        "min": 12.0,
+        "max": 23.0
+      }
+    },
+    {
+      "name": "Bella Pasta",
+      "url": "https://bellapastaristorante.com/menu",
+      "title": "Bella Pasta Online Menu | Best Italian food in Pawtucket",
+      "menu_items": [
+        {
+          "item": "Garlic Bread with Cheese",
+          "price": "$5.99",
+          "description": "Fresh garlic bread topped with mozzarella cheese",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Fried Mozzarella",
+          "price": "$10.99",
+          "description": "Mozzarella sticks with homemade marinara sauce",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Bruschetta Alla Bella",
+          "price": "$7.99",
+          "description": "Garlic bread with tomatoes, onions, mozzarella, herbs, balsamic glaze",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Fried Calamari",
+          "price": "$14.99",
+          "description": "Calamari and banana pepper rings, garlic, olive oil, spicy lemon wine sauce",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": true
+        },
+        {
+          "item": "Boneless Buffalo Tenders",
+          "price": "$12.99",
+          "description": "Boneless fried chicken tenders in hot sauce, blue cheese, carrots, celery",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": true
+        },
+        {
+          "item": "Portabella Mushrooms",
+          "price": "$11.99",
+          "description": "Grilled portabella caps, spinach, roasted red peppers, mozzarella, lemon butter wine sauce",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Fettuccine Alfredo",
+          "price": "$14.99",
+          "description": "Fettuccine pasta, homemade alfredo sauce, romano cheese",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Pasta with Meatballs",
+          "price": "$14.99",
+          "description": "Choice of pasta, homemade marinara, two meatballs, romano cheese",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Cheese Ravioli",
+          "price": "$14.99",
+          "description": "Ravioli stuffed with ricotta, mozzarella, romano, in marinara sauce",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Goat Cheese Ravioli",
+          "price": "$17.99",
+          "description": "Ravioli with roasted red peppers and goat cheese",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Pollo Carbonara",
+          "price": "$19.99",
+          "description": "Chicken, peas, onions, mushrooms, garlic cream sauce, fettuccine",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Wild Mushroom Tortellini",
+          "price": "$17.99",
+          "description": "Tortellini, wild mushrooms, olives, sun-dried tomatoes, garlic cream sauce",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "321 Olive Ave, Little Italy",
+        "phone": "555-456-7890",
+        "email": "info@bellapasta.com",
+        "hours": "Mon-Sun 12pm-11pm"
+      },
+      "dietary_options": {
+        "vegetarian_count": 7,
+        "vegan_count": 0,
+        "gluten_free_count": 0,
+        "spicy_count": 2
+      },
+      "item_count": 12,
+      "price_range": {
+        "min": 5.99,
+        "max": 19.99
+      }
+    },
+    {
+      "name": "Sushi Zen",
+      "url": "https://www.sushizensf.com/dinnermenu",
+      "title": "Dinner Menu - Sushi Zen",
+      "menu_items": [
+        {
+          "item": "Shiitake Nigiri",
+          "price": "$4.50",
+          "description": "Cooked mushroom sushi",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Tamago Nigiri",
+          "price": "$4.50",
+          "description": "Japanese sweet omelet sushi",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Albacore Nigiri",
+          "price": "$5.50",
+          "description": "White tuna sushi",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Hamachi Nigiri",
+          "price": "$6.25",
+          "description": "Yellowtail sushi",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Maguro Nigiri",
+          "price": "$5.50",
+          "description": "Tuna sushi",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Sake Nigiri",
+          "price": "$5.50",
+          "description": "Fresh salmon sushi",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Unagi Nigiri",
+          "price": "$5.50",
+          "description": "BBQ freshwater eel sushi",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Avocado Roll",
+          "price": "$7.00",
+          "description": "Avocado, sushi rice, nori",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Spicy Tuna Roll",
+          "price": "$8.50",
+          "description": "Tuna, spicy mayo, cucumber, nori",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": true
+        },
+        {
+          "item": "Rainbow Roll",
+          "price": "$13.00",
+          "description": "California roll topped with assorted fish",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Miso Soup",
+          "price": "$4.00",
+          "description": "Miso broth, tofu, seaweed, scallion",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "654 Sushi Blvd, Tokyo Town",
+        "phone": "555-567-8901",
+        "email": "order@sushizen.com",
+        "hours": "Mon-Sat 11am-10pm"
+      },
+      "dietary_options": {
+        "vegetarian_count": 5,
+        "vegan_count": 4,
+        "gluten_free_count": 7,
+        "spicy_count": 1
+      },
+      "item_count": 11,
+      "price_range": {
+        "min": 4.0,
+        "max": 13.0
+      }
+    },
+    {
+      "name": "The Burger Joint",
+      "url": "https://burgerjointhtx.com/restaurant-menu/",
+      "title": "The Burger Joint - Gourmet Burgers",
+      "menu_items": [
+        {
+          "item": "Classic Smash Burger",
+          "price": "$10.99",
+          "description": "Double Angus beef, American cheese, lettuce, grilled onions, pickles, joint sauce",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Veggie Burger",
+          "price": "$11.99",
+          "description": "Black bean patty, avocado, lettuce, tomato, vegan mayo",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Hot Dog Classic",
+          "price": "$6.99",
+          "description": "Grilled onions, mustard",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Chili Queso Dog",
+          "price": "$8.99",
+          "description": "House-made chili, queso, onions",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": true
+        },
+        {
+          "item": "Big Frank",
+          "price": "$12.99",
+          "description": "Foot long dog, pulled pork, BBQ sauce, slaw",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Hand Cut Fries",
+          "price": "$3.99",
+          "description": "Classic fries, sea salt",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Sweet Potato Fries",
+          "price": "$4.99",
+          "description": "Crispy sweet potato fries",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Queso Fries",
+          "price": "$5.99",
+          "description": "Fries topped with queso sauce",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Bacon-Parm Fries",
+          "price": "$6.99",
+          "description": "Fries with bacon and parmesan",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Onion Rings",
+          "price": "$5.99",
+          "description": "Crispy battered onion rings",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Potato Salad",
+          "price": "$3.49",
+          "description": "Classic creamy potato salad",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "987 Grill Rd, Burger City",
+        "phone": "555-678-9012",
+        "email": "support@burgerjoint.com",
+        "hours": "Mon-Sun 11am-12am"
+      },
+      "dietary_options": {
+        "vegetarian_count": 6,
+        "vegan_count": 3,
+        "gluten_free_count": 4,
+        "spicy_count": 1
+      },
+      "item_count": 11,
+      "price_range": {
+        "min": 3.49,
+        "max": 12.99
+      }
+    },
+    {
+      "name": "Café Parisien",
+      "url": "https://www.cafeparisien.com/menu/",
+      "title": "Café Parisien - French Bistro Classics",
+      "menu_items": [
+        {
+          "item": "Croque Monsieur",
+          "price": "$14",
+          "description": "Ham, gruyère, béchamel, toasted bread",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Ratatouille",
+          "price": "$13",
+          "description": "Stewed vegetables, herbs de Provence",
+          "vegetarian": true,
+          "vegan": true,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "French Onion Soup",
+          "price": "$10",
+          "description": "Caramelized onions, beef broth, gruyère, crouton",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Quiche Lorraine",
+          "price": "$12",
+          "description": "Eggs, cream, bacon, cheese, pastry crust",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Nicoise Salad",
+          "price": "$15",
+          "description": "Tuna, green beans, potatoes, olives, egg, anchovy",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Crepes Suzette",
+          "price": "$11",
+          "description": "Crepes, orange sauce, Grand Marnier",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Duck Confit",
+          "price": "$21",
+          "description": "Slow-cooked duck leg, potatoes, greens",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Bouillabaisse",
+          "price": "$22",
+          "description": "Provençal seafood stew, saffron, rouille",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        },
+        {
+          "item": "Tarte Tatin",
+          "price": "$9",
+          "description": "Caramelized apple tart, puff pastry",
+          "vegetarian": true,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Steak Frites",
+          "price": "$23",
+          "description": "Grilled steak, French fries, herb butter",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": false,
+          "spicy": false
+        },
+        {
+          "item": "Moules Marinières",
+          "price": "$18",
+          "description": "Mussels, white wine, garlic, parsley, cream",
+          "vegetarian": false,
+          "vegan": false,
+          "gluten_free": true,
+          "spicy": false
+        }
+      ],
+      "contact_info": {
+        "address": "159 Rue de Paris, Parisville",
+        "phone": "555-789-0123",
+        "email": "bonjour@cafeparisien.com",
+        "hours": "Mon-Fri 8am-8pm, Sat-Sun 9am-9pm"
+      },
+      "dietary_options": {
+        "vegetarian_count": 3,
+        "vegan_count": 1,
+        "gluten_free_count": 4,
+        "spicy_count": 0
+      },
+      "item_count": 11,
+      "price_range": {
+        "min": 9.0,
+        "max": 23.0
+      }
+    }
+  ]
+  
