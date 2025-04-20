@@ -22,7 +22,7 @@ Replace the placeholder in .env:
 Clone the project
 
 ```bash
-  git clone https://github.com/harshdixit22/zomato_assignment.git
+  git clone https://github.com/harshdixit22/zomato_assignment_final.git
 ```
 
 Go to the project directory
